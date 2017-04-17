@@ -1,0 +1,1862 @@
+[Thu Sep 29 2016 17:35:09 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Sep 29 2016 17:35:09 GMT+0200 (CEST)] INFO Slack client now connected
+[Thu Sep 29 2016 17:35:09 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Wed Oct 05 2016 04:34:41 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Oct 05 2016 04:34:41 GMT+0200 (CEST)] INFO Slack client now connected
+[Wed Oct 05 2016 04:34:42 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Wed Oct 05 2016 04:34:42 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ '[KBO',
+  'MER',
+  'HED',
+  'MEL',
+  'OEL',
+  'SBO',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'MKA',
+  'AGU',
+  'MELK]' ]
+[ '[KBO',
+  'MER',
+  'HED',
+  'MEL',
+  'OEL',
+  'SBO',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB]' ]
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: 1.75
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 1.67
+score1: NaN
+NaN
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 1.75
+score1: 12.42
+12.42
+[Wed Oct 05 2016 04:38:40 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Oct 05 2016 04:38:41 GMT+0200 (CEST)] INFO Slack client now connected
+[Wed Oct 05 2016 04:38:41 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Wed Oct 05 2016 04:38:41 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Wed Oct 05 2016 04:42:32 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Oct 05 2016 04:42:37 GMT+0200 (CEST)] INFO Slack client now connected
+[Wed Oct 05 2016 04:42:37 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Wed Oct 05 2016 04:42:37 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'KBO',
+  'MER',
+  'HED',
+  'MEL',
+  'OEL',
+  'SBO',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'MKA',
+  'AGU',
+  'MELK',
+  '' ]
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.75
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+score1: 13.08
+13.08
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'AEL', 'EAB', 'MKA', 'AGU' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 1.33
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 1.75
+team1 nextMatchPlayers[p]: 1.5
+score1: 11.83
+11.83
+[ ':smile:' ]
+[Wed Oct 05 2016 10:42:13 GMT+0200 (CEST)] ERROR SyntaxError: Invalid JS code
+  at /home/eaboussoror/bb8/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/eaboussoror/bb8/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.EventEmitter.emit (events.js:117:20)
+  at _stream_readable.js:920:16
+  at process._tickCallback (node.js:415:13)
+
+[Wed Oct 05 2016 10:42:40 GMT+0200 (CEST)] ERROR SyntaxError: Invalid JS code
+  at /home/eaboussoror/bb8/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/eaboussoror/bb8/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.EventEmitter.emit (events.js:117:20)
+  at _stream_readable.js:920:16
+  at process._tickCallback (node.js:415:13)
+
+[ 'KBO', 'MER', 'MEL', 'OELAEL', 'EAB', 'MKA', 'AGU' ]
+[ '?' ]
+[ ':smile:' ]
+[ 'KBO',
+  'MER',
+  'MEL',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.25
+score1: 12.92
+12.92
+[ 'KBO',
+  'MER',
+  'MEL',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2.25
+score1: 14
+14
+[ 'KBO',
+  'MER',
+  'MEL',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.25
+score1: 12.92
+12.92
+[ 'KBO',
+  'MER',
+  'MEL',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2.25
+score1: 12.83
+12.83
+[ 'KBO',
+  'MER',
+  'MEL',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.83
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+score1: 14
+14
+[ 'mrigla :smile:' ]
+[ '?' ]
+[ 'derti lina ma hta wazza :smile:' ]
+[Sun Oct 09 2016 20:16:21 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Sun Oct 09 2016 20:16:21 GMT+0200 (CEST)] INFO Slack client now connected
+[Mon Oct 10 2016 02:38:14 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Oct 10 2016 02:38:17 GMT+0200 (CEST)] INFO Slack client now connected
+[Mon Oct 10 2016 13:23:24 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Oct 10 2016 13:23:25 GMT+0200 (CEST)] INFO Slack client now connected
+[Mon Oct 10 2016 13:23:25 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Mon Oct 10 2016 13:23:25 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'KBO',
+  'MER',
+  'HED',
+  'MEL',
+  'OEL',
+  'SBO',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'MKA',
+  'AGU',
+  'MELK' ]
+[ 'KBO',
+  'MER',
+  'HED',
+  'MEL',
+  'OEL',
+  'SBO',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'MKA',
+  'AGU',
+  'MELK',
+  'XX1',
+  'XX2' ]
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'XX2' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 1.75
+team1 nextMatchPlayers[p]: 2
+score1: 12.25
+12.25
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX3',
+  'XX3' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: undefined
+score1: 12.92
+12.92
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX1',
+  'XX2' ]
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.17
+score1: 11.08
+11.08
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'NAG',
+  'XX3',
+  'XX2' ]
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.67
+score1: 13.25
+13.25
+[Thu Oct 13 2016 18:41:57 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Oct 13 2016 18:41:58 GMT+0200 (CEST)] INFO Slack client now connected
+[Thu Oct 13 2016 18:41:58 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Oct 13 2016 18:41:58 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX1',
+  'ANA' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 1
+team1 nextMatchPlayers[p]: 1.67
+score1: 14.25
+14.25
+[ 'MER',
+  'OEL',
+  'YZA',
+  'ANA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX4' ]
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.17
+score1: 14.42
+14.42
+[ 'MER',
+  'OEL',
+  'YZA',
+  'ANA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX2',
+  'XX3' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.17
+score1: 13
+13
+[ 'MER',
+  'OEL',
+  'YZA',
+  'ANA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX2',
+  'XX3' ]
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+score1: 13.58
+13.58
+[ 'MER',
+  'OEL',
+  'YZA',
+  'ANA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX2',
+  'XX3' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2
+score1: 13.25
+13.25
+[ 'MER',
+  'OEL',
+  'YZA',
+  'ANA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX2',
+  'XX3' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.67
+score1: 14.25
+14.25
+[Fri Oct 14 2016 18:27:26 GMT+0200 (CEST)] ERROR ReferenceError: robot is not defined
+  at /home/eaboussoror/bb8/node_modules/hubot-wikipedia/src/wikipedia.coffee:72:24, <js>:82:16
+  at ClientRequest.<anonymous> (/home/eaboussoror/bb8/node_modules/scoped-http-client/src/index.js:99:20)
+  at ClientRequest.EventEmitter.emit (events.js:95:17)
+  at CleartextStream.socketErrorListener (http.js:1547:9)
+  at CleartextStream.EventEmitter.emit (events.js:95:17)
+  at SecurePair.<anonymous> (tls.js:1389:19)
+  at SecurePair.EventEmitter.emit (events.js:92:17)
+  at SecurePair.maybeInitFinished (tls.js:982:10)
+  at CleartextStream.read [as _read] (tls.js:469:13)
+  at CleartextStream.Readable.read (_stream_readable.js:320:10)
+  at EncryptedStream.write [as _write] (tls.js:366:25)
+  at doWrite (_stream_writable.js:223:10)
+  at writeOrBuffer (_stream_writable.js:213:5)
+  at EncryptedStream.Writable.write (_stream_writable.js:180:11)
+  at write (_stream_readable.js:583:24)
+  at flow (_stream_readable.js:592:7)
+  at Socket.pipeOnReadable (_stream_readable.js:624:5)
+  at Socket.EventEmitter.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:408:10)
+  at emitReadable (_stream_readable.js:404:5)
+  at readableAddChunk (_stream_readable.js:165:9)
+  at Socket.Readable.push (_stream_readable.js:127:10)
+  at TCP.onread (net.js:526:21)
+
+[Fri Oct 14 2016 18:27:47 GMT+0200 (CEST)] ERROR ReferenceError: robot is not defined
+  at /home/eaboussoror/bb8/node_modules/hubot-wikipedia/src/wikipedia.coffee:72:24, <js>:82:16
+  at ClientRequest.<anonymous> (/home/eaboussoror/bb8/node_modules/scoped-http-client/src/index.js:99:20)
+  at ClientRequest.EventEmitter.emit (events.js:95:17)
+  at CleartextStream.socketErrorListener (http.js:1547:9)
+  at CleartextStream.EventEmitter.emit (events.js:95:17)
+  at SecurePair.<anonymous> (tls.js:1389:19)
+  at SecurePair.EventEmitter.emit (events.js:92:17)
+  at SecurePair.maybeInitFinished (tls.js:982:10)
+  at CleartextStream.read [as _read] (tls.js:469:13)
+  at CleartextStream.Readable.read (_stream_readable.js:320:10)
+  at EncryptedStream.write [as _write] (tls.js:366:25)
+  at doWrite (_stream_writable.js:223:10)
+  at writeOrBuffer (_stream_writable.js:213:5)
+  at EncryptedStream.Writable.write (_stream_writable.js:180:11)
+  at write (_stream_readable.js:583:24)
+  at flow (_stream_readable.js:592:7)
+  at Socket.pipeOnReadable (_stream_readable.js:624:5)
+  at Socket.EventEmitter.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:408:10)
+  at emitReadable (_stream_readable.js:404:5)
+  at readableAddChunk (_stream_readable.js:165:9)
+  at Socket.Readable.push (_stream_readable.js:127:10)
+  at TCP.onread (net.js:526:21)
+
+[Tue Oct 18 2016 09:26:58 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Oct 18 2016 09:26:59 GMT+0200 (CEST)] INFO Slack client now connected
+[ 'MEL', 'KBO', 'AEL', 'AGU', 'YZA', 'MER', 'EAB', 'ANA', 'NAG', 'XX3' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2.58
+score1: 15.17
+15.17
+[ ':wink:' ]
+[ 'MEL', 'KBO', 'AEL', 'AGU', 'YZA', 'MER', 'EAB', 'ANA', 'NAG', 'XX3' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.75
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.17
+score1: 15.58
+15.58
+[ 'MEL', 'KBO', 'AEL', 'AGU', 'YZA', 'MER', 'EAB', 'ANA', 'NAG', 'XX3' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.58
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.75
+score1: 15.42
+15.42
+[ 'HED', 'MEL', 'OEL', 'NAG', 'MEL', 'KBO', 'AEL', 'YZA', 'ANA', 'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+score1: 13.17
+13.17
+[ 'HED', 'MEL', 'OEL', 'NAG', 'MEL', 'KBO', 'AEL', 'YZA', 'ANA', 'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+score1: 14
+14
+[ 'HED', 'MEL', 'OEL', 'NAG', 'MEL', 'KBO', 'AEL', 'YZA', 'ANA', 'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.17
+score1: 12.67
+12.67
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+score1: 14.51
+14.51
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.5
+score1: 14.17
+14.17
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.67
+score1: 14
+14
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.17
+score1: 13.17
+13.17
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.17
+score1: 14.17
+14.17
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 1.5
+score1: 13.42
+13.42
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.67
+score1: 13.09
+13.09
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 1.67
+score1: 12.83
+12.83
+[ 'HED',
+  'MELK',
+  'OEL',
+  'NAG',
+  'MEL',
+  'KBO',
+  'AEL',
+  'YZA',
+  'ANA',
+  'EAB' ]
+team1 nextMatchPlayers[p]: 3.67
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.67
+team1 nextMatchPlayers[p]: 2.17
+team1 nextMatchPlayers[p]: 3.75
+team1 nextMatchPlayers[p]: 3.08
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.25
+team1 nextMatchPlayers[p]: 1.5
+score1: 13.26
+13.26
+[Thu Oct 27 2016 11:03:04 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Oct 27 2016 11:03:04 GMT+0200 (CEST)] INFO Slack client now connected
+[Thu Oct 27 2016 11:03:04 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Oct 27 2016 11:03:04 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ '<liste de 10 trigrame >' ]
+[ 'NAG',
+  'MELK',
+  'YZA',
+  'OEL',
+  'EAB',
+  'MEL',
+  'ANA',
+  'AEL',
+  'HED',
+  'KBO' ]
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.18
+team1 nextMatchPlayers[p]: 4.35
+team1 nextMatchPlayers[p]: 2.92
+team1 nextMatchPlayers[p]: 1.77
+team1 nextMatchPlayers[p]: 4.35
+team1 nextMatchPlayers[p]: 4.04
+team1 nextMatchPlayers[p]: 3.27
+team1 nextMatchPlayers[p]: 1.85
+team1 nextMatchPlayers[p]: 2.65
+score1: 16.72
+16.72
+[ 'pour ce soir c\'est : ' ]
+[Fri Oct 28 2016 19:07:10 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Oct 28 2016 19:07:10 GMT+0200 (CEST)] INFO Slack client now connected
+[Fri Oct 28 2016 19:07:10 GMT+0200 (CEST)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Fri Oct 28 2016 19:07:10 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX1',
+  'ANA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 2
+score1: 17
+17
+[ 'MER',
+  'OEL',
+  'YZA',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK',
+  'XX3',
+  'XX1',
+  'ANA7' ]
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: 1
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: NaN
+NaN
+[ 'NAG',
+  'MELK',
+  'YZA',
+  'OEL',
+  'EAB',
+  'MEL',
+  'ANA',
+  'AEL',
+  'HED',
+  'KBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 2.5
+score1: 16.5
+16.5
+[ 'NAG',
+  'MELK',
+  'YZA',
+  'OEL',
+  'EAB',
+  'MEL',
+  'ANA',
+  'AEL',
+  'HED',
+  'KBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.5
+score1: 17.5
+17.5
+[ 'NAG',
+  'MELK',
+  'YZA',
+  'OEL',
+  'EAB',
+  'AGU',
+  'MER',
+  'AEL',
+  'HED',
+  'KBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 2
+score1: 17.5
+17.5
+[ 'KBO',
+  'MER',
+  'HED',
+  'OEL',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'AGU',
+  'MELK' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+score1: 17.5
+17.5
+[Wed Nov 02 2016 18:35:05 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Nov 02 2016 18:35:05 GMT+0100 (CET)] INFO Slack client now connected
+[Mon Nov 07 2016 17:15:12 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Nov 07 2016 17:15:12 GMT+0100 (CET)] INFO Slack client now connected
+[Mon Nov 07 2016 17:15:12 GMT+0100 (CET)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Mon Nov 07 2016 17:15:12 GMT+0100 (CET)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'ZHA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2
+score1: 16.5
+16.5
+[ 'YZA',
+  'NAG',
+  'AEL',
+  'OEL',
+  'MELK',
+  'HED',
+  'EAB',
+  'AGU',
+  'ZHA',
+  'MER' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: 18.5
+18.5
+[ 'YZA',
+  'NAG',
+  'AEL',
+  'OEL',
+  'MELK',
+  'HED',
+  'EAB',
+  'AGU',
+  'ZHA',
+  'MER' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3.5
+score1: 18
+18
+[ 'YZA',
+  'NAG',
+  'AEL',
+  'OEL',
+  'MELK',
+  'HED',
+  'EAB',
+  'AGU',
+  'ZHA',
+  'MER' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+score1: 20.5
+20.5
+[ 'YZA',
+  'NAG',
+  'AEL',
+  'OEL',
+  'MELK',
+  'HED',
+  'EAB',
+  'AGU',
+  'ZHA',
+  'MER' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.5
+score1: 17.5
+17.5
+[Tue Nov 08 2016 09:43:34 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Nov 08 2016 09:43:41 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Nov 08 2016 09:43:42 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Nov 10 2016 17:13:13 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Nov 10 2016 17:13:14 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Nov 10 2016 17:13:14 GMT+0100 (CET)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Nov 10 2016 17:13:14 GMT+0100 (CET)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 19
+19
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+score1: 19
+19
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: 16.5
+16.5
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: 16.5
+16.5
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+score1: 17.5
+17.5
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+score1: 17
+17
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'ALA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 18
+18
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+score1: 20.5
+20.5
+[ 'MER', 'HED', 'OEL', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+score1: 19.5
+19.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3
+score1: 19.5
+19.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+score1: 21.5
+21.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 3.5
+score1: 19.5
+19.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4
+score1: 18.5
+18.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+score1: 21.5
+21.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3
+score1: 21.5
+21.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 4
+score1: 19.5
+19.5
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 1.5
+score1: 21
+21
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 3
+score1: 19
+19
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4
+score1: 19
+19
+[ 'MER', 'HED', 'XX4', 'YZA', 'NAG', 'AEL', 'EAB', 'AGU', 'ZHA', 'XX5' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 1.5
+score1: 20.5
+20.5
+[Mon Nov 28 2016 05:50:53 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Nov 28 2016 05:50:54 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Dec 03 2016 03:20:46 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Dec 03 2016 03:20:47 GMT+0100 (CET)] INFO Slack client now connected
+[ 'MER', 'HED', 'YZA', 'NAG', 'AEL', 'EAB', 'ZHA', 'XX5', 'ALA' ]
+[ 'MER',
+  'HED',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'ZHA',
+  'XX5',
+  'ALA',
+  'MELK' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: 19.5
+19.5
+[ 'MER',
+  'HED',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'ZHA',
+  'XX5',
+  'ALA',
+  'MELK' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+score1: 19
+19
+[ 'MER',
+  'HED',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'ZHA',
+  'XX5',
+  'ALA',
+  'MELK' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3.5
+score1: 18
+18
+[ 'MER',
+  'HED',
+  'YZA',
+  'NAG',
+  'AEL',
+  'EAB',
+  'ZHA',
+  'XX5',
+  'ALA',
+  'MELK' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3.5
+score1: 19
+19
+[Tue Dec 13 2016 05:31:40 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Dec 13 2016 05:31:41 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Dec 24 2016 06:02:15 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Dec 24 2016 06:02:16 GMT+0100 (CET)] INFO Slack client now connected
+[Wed Jan 04 2017 10:24:47 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Jan 04 2017 10:24:47 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 12 2017 12:54:39 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Jan 12 2017 12:54:39 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 12 2017 19:29:21 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Jan 12 2017 19:29:22 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 12 2017 19:29:22 GMT+0100 (CET)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Jan 12 2017 19:29:22 GMT+0100 (CET)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Thu Jan 12 2017 19:30:07 GMT+0100 (CET)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:901:11)
+  at Server._listen2 (net.js:1039:14)
+  at listen (net.js:1061:10)
+  at net.js:1143:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:415:13)
+
+[Thu Jan 12 2017 19:30:08 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Jan 12 2017 19:30:08 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 12 2017 19:30:08 GMT+0100 (CET)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Jan 12 2017 19:30:08 GMT+0100 (CET)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Thu Jan 12 2017 19:31:25 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Jan 12 2017 19:31:25 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 12 2017 19:31:25 GMT+0100 (CET)] INFO /home/eaboussoror/bb8/scripts/t3azila.coffee is using deprecated documentation syntax
+[Thu Jan 12 2017 19:31:25 GMT+0100 (CET)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Wed Jan 18 2017 17:20:47 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Jan 18 2017 17:20:49 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Jan 19 2017 19:03:11 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Jan 19 2017 19:03:11 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Jan 20 2017 15:33:15 GMT+0100 (CET)] ERROR TypeError: Cannot read property 'id' of undefined
+  at SlackBot.message (/home/eaboussoror/bb8/node_modules/hubot-slack/src/bot.coffee:130:24, <js>:187:26)
+  at /home/eaboussoror/bb8/node_modules/hubot-slack/src/bot.coffee:1:1, <js>:3:61
+  at RTMClient.<anonymous> (/home/eaboussoror/bb8/node_modules/hubot-slack/src/client.coffee:50:9, <js>:55:18)
+  at RTMClient.emit (/home/eaboussoror/bb8/node_modules/eventemitter3/index.js:116:35)
+  at RTMClient.emit (/home/eaboussoror/bb8/node_modules/@slack/client/lib/clients/client.js:83:39)
+  at RTMClient._handleWsMessageViaEventHandler (/home/eaboussoror/bb8/node_modules/@slack/client/lib/clients/rtm/client.js:466:10)
+  at RTMClient.handleWsMessage (/home/eaboussoror/bb8/node_modules/@slack/client/lib/clients/rtm/client.js:420:10)
+  at WebSocket.wrapper (/home/eaboussoror/bb8/node_modules/@slack/client/node_modules/lodash/lodash.js:4904:19)
+  at WebSocket.EventEmitter.emit (events.js:98:17)
+  at Receiver.ontext (/home/eaboussoror/bb8/node_modules/ws/lib/WebSocket.js:841:10)
+  at /home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:536:18
+  at Receiver.applyExtensions (/home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:371:5)
+  at /home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:508:14
+  at Receiver.flush (/home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:347:3)
+  at Receiver.opcodes.1.finish (/home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:541:12)
+  at Receiver.expectHandler (/home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:499:31)
+  at Receiver.add (/home/eaboussoror/bb8/node_modules/ws/lib/Receiver.js:103:24)
+  at CleartextStream.realHandler (/home/eaboussoror/bb8/node_modules/ws/lib/WebSocket.js:825:20)
+  at CleartextStream.EventEmitter.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:746:14)
+  at CleartextStream.EventEmitter.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:408:10)
+  at _stream_readable.js:401:7
+  at process._tickCallback (node.js:415:13)
+
+[Fri Jan 20 2017 15:33:31 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Jan 20 2017 15:33:31 GMT+0100 (CET)] INFO Slack client now connected
+[Tue Jan 24 2017 19:05:22 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Jan 24 2017 19:05:22 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Jan 27 2017 18:48:26 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Jan 27 2017 18:48:34 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Jan 27 2017 18:49:03 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Jan 27 2017 18:50:07 GMT+0100 (CET)] ERROR undefined
+[Fri Jan 27 2017 18:50:10 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Jan 27 2017 18:50:11 GMT+0100 (CET)] INFO Slack client now connected
+[Mon Jan 30 2017 15:49:03 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Jan 30 2017 15:49:03 GMT+0100 (CET)] INFO Slack client now connected
+[Mon Jan 30 2017 15:51:35 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Jan 30 2017 15:51:36 GMT+0100 (CET)] ERROR undefined
+[Mon Jan 30 2017 15:51:40 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Jan 30 2017 15:51:40 GMT+0100 (CET)] INFO Slack client now connected
+[Wed Feb 01 2017 14:16:55 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Feb 01 2017 14:16:55 GMT+0100 (CET)] INFO Slack client now connected
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'ZHA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+score1: 17.5
+17.5
+[ 'YZA', 'MEL', 'EAB', 'OEL', 'HED', 'AEL', 'MER', 'ZHA', 'NAG', 'SBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 18
+18
+[Fri Feb 10 2017 06:37:55 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Feb 10 2017 06:37:56 GMT+0100 (CET)] INFO Slack client now connected
+[Tue Feb 21 2017 09:21:04 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Feb 21 2017 09:21:04 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 15:03:37 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:04:41 GMT+0100 (CET)] ERROR undefined
+[Thu Feb 23 2017 15:04:45 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:04:46 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 15:07:40 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:07:56 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 15:16:46 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:16:47 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 15:24:56 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:24:56 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 15:25:52 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:26:55 GMT+0100 (CET)] ERROR undefined
+[Thu Feb 23 2017 15:26:59 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 15:27:00 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Feb 23 2017 16:57:57 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 16:59:02 GMT+0100 (CET)] ERROR undefined
+[Thu Feb 23 2017 16:59:06 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Feb 23 2017 16:59:07 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Feb 24 2017 11:39:26 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Feb 24 2017 11:39:26 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Feb 25 2017 06:48:30 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Feb 25 2017 06:48:31 GMT+0100 (CET)] INFO Slack client now connected
+[Wed Mar 01 2017 11:38:45 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Mar 01 2017 11:38:46 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Mar 02 2017 00:46:20 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 02 2017 00:46:20 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Mar 02 2017 20:56:29 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 02 2017 20:56:30 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 04 2017 00:37:10 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 04 2017 00:37:26 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 04 2017 01:42:48 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 04 2017 01:42:48 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 04 2017 03:34:05 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 04 2017 03:34:20 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 04 2017 04:16:11 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 04 2017 04:16:42 GMT+0100 (CET)] INFO Slack client now connected
+[Tue Mar 07 2017 05:42:38 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Mar 07 2017 05:42:38 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Mar 09 2017 15:24:13 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 09 2017 15:24:13 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 11 2017 12:31:57 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 11 2017 12:31:57 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 11 2017 23:32:25 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 11 2017 23:32:28 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 11 2017 23:32:56 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 11 2017 23:34:00 GMT+0100 (CET)] ERROR undefined
+[Sat Mar 11 2017 23:34:04 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 11 2017 23:34:05 GMT+0100 (CET)] INFO Slack client now connected
+[ 'KBO', 'MER', 'HED', 'MEL', 'OEL', 'SBO', 'YZA', 'NAG', 'AEL', 'ZHA' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2.5
+team1 nextMatchPlayers[p]: 2
+score1: 18
+18
+[ 'XX4', 'ALA', 'SBO', 'MER', 'AEL', 'ZHA', 'AGU', 'MEL', 'HED', 'EAB' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 18
+18
+[Thu Mar 16 2017 06:02:01 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 16 2017 06:02:01 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Mar 16 2017 06:17:20 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 16 2017 06:17:21 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Mar 17 2017 00:03:26 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Mar 17 2017 00:03:58 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Mar 17 2017 03:53:21 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Mar 17 2017 03:53:29 GMT+0100 (CET)] INFO Slack client now connected
+[Fri Mar 17 2017 06:55:05 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Mar 17 2017 06:56:09 GMT+0100 (CET)] ERROR undefined
+[Fri Mar 17 2017 06:56:12 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Fri Mar 17 2017 06:56:13 GMT+0100 (CET)] INFO Slack client now connected
+[Sat Mar 18 2017 01:29:10 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 18 2017 01:30:14 GMT+0100 (CET)] ERROR undefined
+[Sat Mar 18 2017 01:30:17 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Mar 18 2017 01:30:17 GMT+0100 (CET)] INFO Slack client now connected
+[Tue Mar 21 2017 05:37:09 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Mar 21 2017 05:37:10 GMT+0100 (CET)] INFO Slack client now connected
+[Wed Mar 22 2017 15:59:16 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Mar 22 2017 15:59:16 GMT+0100 (CET)] INFO Slack client now connected
+[Wed Mar 22 2017 20:49:13 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Mar 22 2017 20:49:13 GMT+0100 (CET)] INFO Slack client now connected
+[Thu Mar 23 2017 05:41:52 GMT+0100 (CET)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 23 2017 05:41:52 GMT+0100 (CET)] INFO Slack client now connected
+[Tue Mar 28 2017 21:30:36 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Mar 28 2017 21:30:37 GMT+0200 (CEST)] INFO Slack client now connected
+[Tue Mar 28 2017 21:48:32 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Mar 28 2017 21:48:32 GMT+0200 (CEST)] INFO Slack client now connected
+[Wed Mar 29 2017 07:23:02 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Mar 29 2017 07:23:02 GMT+0200 (CEST)] INFO Slack client now connected
+[Wed Mar 29 2017 07:54:49 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Wed Mar 29 2017 07:54:50 GMT+0200 (CEST)] INFO Slack client now connected
+[Thu Mar 30 2017 01:09:43 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Thu Mar 30 2017 01:09:58 GMT+0200 (CEST)] INFO Slack client now connected
+[ 'list' ]
+[ 'HED',
+  ' YZA',
+  ' MER',
+  ' ZHA',
+  ' EAB',
+  ' AEL',
+  ' MELK',
+  ' NAG',
+  ' OEL',
+  ' AGU' ]
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+score1: NaN
+NaN
+[ 'HED',
+  ' YZA',
+  ' MER',
+  ' ZHA',
+  ' EAB',
+  ' AEL',
+  ' MKA',
+  ' NAG',
+  ' OEL',
+  ' AGU' ]
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+score1: NaN
+NaN
+[ 'HED',
+  ' YZA',
+  ' MER',
+  ' ZHA',
+  ' EAB',
+  ' AEL',
+  ' MELK',
+  ' NAG',
+  ' OEL',
+  ' AGU' ]
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+team1 nextMatchPlayers[p]: undefined
+score1: NaN
+NaN
+[ 'HED',
+  'YZA',
+  'MER',
+  'ZHA',
+  'EAB',
+  'AEL',
+  'MELK',
+  'NAG',
+  'OEL',
+  'AGU' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 19.5
+19.5
+[ 'HED',
+  'YZA',
+  'MER',
+  'ZHA',
+  'EAB',
+  'AEL',
+  'MELK',
+  'NAG',
+  'OEL',
+  'AGU' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 1.5
+score1: 18
+18
+[ 'figée !' ]
+[Sat Apr 01 2017 04:36:55 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Apr 01 2017 04:36:56 GMT+0200 (CEST)] INFO Slack client now connected
+[Sat Apr 01 2017 06:28:11 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Sat Apr 01 2017 06:28:11 GMT+0200 (CEST)] INFO Slack client now connected
+[Sun Apr 02 2017 01:12:46 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Sun Apr 02 2017 01:12:46 GMT+0200 (CEST)] INFO Slack client now connected
+[Mon Apr 03 2017 21:32:26 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Mon Apr 03 2017 21:32:26 GMT+0200 (CEST)] INFO Slack client now connected
+[Tue Apr 04 2017 20:51:36 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Apr 04 2017 20:51:37 GMT+0200 (CEST)] INFO Slack client now connected
+[Tue Apr 04 2017 20:54:45 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Apr 04 2017 20:54:45 GMT+0200 (CEST)] INFO Slack client now connected
+[Tue Apr 11 2017 06:37:41 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Tue Apr 11 2017 06:37:41 GMT+0200 (CEST)] INFO Slack client now connected
+[ 'HED', 'MER', 'ZHA', 'EAB', 'AEL', 'NAG', 'OEL', 'AGU', 'MEL' ]
+[ 'HED', 'MER', 'ZHA', 'EAB', 'AEL', 'NAG', 'OEL', 'AGU', 'MEL', 'SBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 3
+score1: 17.5
+17.5
+[ 'HED', 'MER', 'ZHA', 'EAB', 'AEL', 'NAG', 'OEL', 'AGU', 'MEL', 'SBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2
+score1: 19
+19
+[ 'HED', 'MER', 'ZHA', 'EAB', 'AEL', 'NAG', 'OEL', 'AGU', 'MEL', 'SBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 1.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 2
+score1: 18.5
+18.5
+[ 'HED', 'MER', 'ZHA', 'EAB', 'AEL', 'NAG', 'OEL', 'AGU', 'MEL', 'SBO' ]
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 3.5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 3
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 4.5
+team1 nextMatchPlayers[p]: 5
+team1 nextMatchPlayers[p]: 2
+team1 nextMatchPlayers[p]: 1.5
+score1: 18
+18
+[Sun Apr 16 2017 05:35:31 GMT+0200 (CEST)] INFO Logged in as bb8 of Visiativ-Africa
+[Sun Apr 16 2017 05:35:32 GMT+0200 (CEST)] INFO Slack client now connected
