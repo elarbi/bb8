@@ -114,9 +114,14 @@ module.exports = (robot) ->
     else
       result = generateTeams(input)
       score1 = result.score1
-      console.log(score1)
+      team1_names = []
+      for trig in result.team1
+        team1_names.push names[trig] 
+      team2_names = []
+      for trig in result.team2
+        team2_names.push names[trig]
       score2 = result.score2
-      res.reply "Ok, so I propose: \n team1: #{result.team1} with score #{score1} \n Vs \n team2: #{result.team2} with score #{score2}"
+      res.reply "Ok, so I propose: \n team1: #{team1_names} with score #{score1} \n Vs \n team2: #{team2_names} with score #{score2}"
 
 
 
