@@ -122,6 +122,3 @@ module.exports = (robot) ->
         team2_names.push names[trig]
       score2 = result.score2
       res.reply "Ok, so I propose: \n team1: #{team1_names} with score #{score1} \n Vs \n team2: #{team2_names} with score #{score2}"
-
-
-
