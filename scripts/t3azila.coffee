@@ -48,6 +48,30 @@ players = {
   XX5: 5
 }
 
+#map of trigrams and names
+names = {
+  KBO: "Khalid",
+  MER: "Mouhcine",
+  HED: "Hamza EDDARAKI",
+  MEL: "Marouane",
+  OEL: "Othman",
+  SBO: "Soufiane",
+  YZA: "Yahya",
+  NAG: "Nizar",
+  AEL: "Ayoub",
+  EAB: "El Arbi",
+  MKA: "Mohammed KADDOURI",
+  AGU: "Abderrahim",
+  MELK: "Mohammed ELKALAKHI",
+  ANA: "Abdelouahed",
+  ZHA: "Zakaria HAMZA",
+  ALA: "Anwar",
+  XX1: "XX1",
+  XX2: "XX2",
+  XX3: "XX3",
+  XX4: "XX4",
+  XX5: "XX5"
+}
 
 #order player names by their level
 keysByValueOrder = (mymap) ->
