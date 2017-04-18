@@ -34,6 +34,14 @@ Then you can interact with bb8 by typing `bb8 help`.
     bb8 help - Displays all of the help commands that bb8 knows about.
     ...
 
+### Running bb8 on Ubuntu in background
+	> nohup ./start_bb8.sh &
+	
+### Stopping bb8
+	find the process id with:
+	> ps aux |grep bb8
+	> kill <bb8 process id>
+
 ### Configuration
 
 A few scripts (including some installed by default) require environment
